@@ -1,0 +1,6 @@
+python_firebase==1.2
+websockets==3.3
+aiohttp==2.2.3
+nacl==0.0.0
+youtube_dl==2017.7.2
+
