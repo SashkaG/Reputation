@@ -1,1 +1,1 @@
-python manage.py Reputation.py
+python Reputation.py
