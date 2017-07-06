@@ -1,7 +1,5 @@
 from firebase import firebase
 import discord
-import django
-django.setup()
 client = discord.Client()
 mfirebase = firebase.FirebaseApplication('https://firepython-6ed4c.firebaseio.com/', authentication=None)
 authentication = firebase.FirebaseAuthentication('wiifitplus2', 'alexandrstrizjnev@gmail.com')
